@@ -27,7 +27,7 @@ Each style ships with a complete, original example project (`styles/<style>/exam
 
 
 
-https://github.com/user-attachments/assets/da6e9ae0-5387-4e01-8db8-16b01564eb57
+https://github.com/user-attachments/assets/77b89c4f-9b51-42aa-ae9a-78d136bb5d65
 
 
 
@@ -37,7 +37,10 @@ https://github.com/user-attachments/assets/da6e9ae0-5387-4e01-8db8-16b01564eb57
 <sub><code>blob-park</code> · inspired by <a href="https://www.youtube.com/@TheLandofBoggs/">The Land of Boggs</a></sub><br><br>
 
 
-https://github.com/user-attachments/assets/32298450-013b-4fda-b232-c5b94ad7ad14
+
+https://github.com/user-attachments/assets/42316dbd-1057-4bab-8912-d2e4fb9ae9b8
+
+
 
 
 </td>
@@ -46,7 +49,11 @@ https://github.com/user-attachments/assets/32298450-013b-4fda-b232-c5b94ad7ad14
 <sub><code>kawaii-skit</code> · inspired by <a href="https://www.youtube.com/@chiknnuggit/">Chikn Nuggit</a></sub><br><br>
 
 
-https://github.com/user-attachments/assets/e96039c3-884b-4198-83bd-fd8a5acb644d
+
+
+https://github.com/user-attachments/assets/8361ef75-5d45-4b1a-a210-fc7c680e860e
+
+
 
 
 </td>
