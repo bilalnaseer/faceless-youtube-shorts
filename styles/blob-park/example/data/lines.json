@@ -1,0 +1,43 @@
+{
+ "duration": 12.277,
+ "voice": "am_puck",
+ "speed": 0.98,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Can I hold one of your balloons?",
+   "start": 0.5,
+   "end": 2.504
+  },
+  {
+   "i": 1,
+   "text": "Okay. Hold it tight.",
+   "start": 2.854,
+   "end": 4.021
+  },
+  {
+   "i": 2,
+   "text": "Wow, thanks!",
+   "start": 4.371,
+   "end": 5.401
+  },
+  {
+   "i": 3,
+   "text": "Wheeeeee!",
+   "start": 6.101,
+   "end": 6.925
+  },
+  {
+   "i": 4,
+   "text": "I said hold it.",
+   "start": 8.625,
+   "end": 9.517
+  },
+  {
+   "i": 5,
+   "text": "Not ride it.",
+   "start": 9.867,
+   "end": 10.677
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "duration": 12.277,
+ "cues": [
+  {
+   "t": 0.4,
+   "type": "pop",
+   "gain": 0.5
+  },
+  {
+   "t": 3.896,
+   "type": "squeak",
+   "gain": 0.6
+  },
+  {
+   "t": 4.421,
+   "type": "sparkle",
+   "dur": 0.7
+  },
+  {
+   "t": 6.051,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 6.251,
+   "type": "giggle",
+   "gain": 0.7
+  },
+  {
+   "t": 8.575,
+   "type": "zip",
+   "gain": 0.5
+  },
+  {
+   "t": 10.717,
+   "type": "wah",
+   "gain": 0.5
+  }
+ ]
+}

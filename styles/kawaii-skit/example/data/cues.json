@@ -1,0 +1,47 @@
+{
+ "duration": 6.955,
+ "cues": [
+  {
+   "t": 0.15,
+   "type": "pop",
+   "gain": 0.5
+  },
+  {
+   "t": 2.154,
+   "type": "gasp"
+  },
+  {
+   "t": 2.454,
+   "type": "thud",
+   "gain": 0.5
+  },
+  {
+   "t": 2.924,
+   "type": "whoosh"
+  },
+  {
+   "t": 3.024,
+   "type": "bonk",
+   "gain": 0.7
+  },
+  {
+   "t": 3.684,
+   "type": "poof",
+   "gain": 0.8
+  },
+  {
+   "t": 4.084,
+   "type": "crash",
+   "gain": 0.5
+  },
+  {
+   "t": 4.808,
+   "type": "zip"
+  },
+  {
+   "t": 5.258,
+   "type": "sparkle",
+   "dur": 0.8
+  }
+ ]
+}

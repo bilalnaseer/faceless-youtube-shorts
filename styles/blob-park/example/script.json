@@ -1,0 +1,56 @@
+{
+  "title": "The Balloon",
+  "handle": "@yourchannel",
+  "voice": "am_puck",
+  "voices": {
+    "orby": "af_nicole",
+    "bloo": "am_fenrir"
+  },
+  "colors": {
+    "orby": "#D9731A",
+    "bloo": "#2A96AB"
+  },
+  "speed": 0.98,
+  "lead": 0.5,
+  "outro": 1.0,
+  "gap": 0.35,
+  "music": "bed",
+  "sources": [
+    "Original story written for this skill. No facts to check."
+  ],
+  "lines": [
+    {
+      "who": "orby",
+      "text": "Can I hold one of your balloons?",
+      "say": "CAN I HOLD ONE?"
+    },
+    {
+      "who": "bloo",
+      "text": "Okay. Hold it tight.",
+      "say": "OKAY. HOLD IT TIGHT."
+    },
+    {
+      "who": "orby",
+      "text": "Wow, thanks!",
+      "say": "THANKS!",
+      "gap": 0.7
+    },
+    {
+      "who": "orby",
+      "text": "Wheeeeee!",
+      "say": "WHEEEEE!",
+      "gap": 1.7
+    },
+    {
+      "who": "bloo",
+      "text": "I said hold it.",
+      "say": "I SAID HOLD IT."
+    },
+    {
+      "who": "bloo",
+      "text": "Not ride it.",
+      "say": "NOT RIDE IT.",
+      "gap": 0.6
+    }
+  ]
+}

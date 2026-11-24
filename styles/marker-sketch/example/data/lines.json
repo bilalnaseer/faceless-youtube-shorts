@@ -1,0 +1,37 @@
+{
+ "duration": 12.746,
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Can I grab a few things real quick?",
+   "start": 0.3,
+   "end": 2.28
+  },
+  {
+   "i": 1,
+   "text": "Twelve watermelons.",
+   "start": 2.78,
+   "end": 4.098
+  },
+  {
+   "i": 2,
+   "text": "Eight bags of ice.",
+   "start": 5.048,
+   "end": 6.257
+  },
+  {
+   "i": 3,
+   "text": "Five potted cactuses.",
+   "start": 7.207,
+   "end": 8.702
+  },
+  {
+   "i": 4,
+   "text": "Um, one more thing.",
+   "start": 9.652,
+   "end": 10.846
+  }
+ ]
+}

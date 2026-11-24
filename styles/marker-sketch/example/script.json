@@ -1,0 +1,48 @@
+{
+  "title": "Shopping Right Before Closing",
+  "head": "SHOPPING RIGHT|BEFORE CLOSING",
+  "voice": "am_michael",
+  "voices": {
+    "doug": "am_michael"
+  },
+  "speed": 1.0,
+  "lead": 0.3,
+  "outro": 0.9,
+  "gap": 0.25,
+  "music": "bed",
+  "sources": [
+    "Original story written for this skill. No facts to check."
+  ],
+  "lines": [
+    {
+      "who": "doug",
+      "text": "Can I grab a few things real quick?",
+      "say": "Grab a few things?",
+      "gap": 0.5
+    },
+    {
+      "who": "doug",
+      "text": "Twelve watermelons.",
+      "say": "12 watermelons",
+      "gap": 0.95
+    },
+    {
+      "who": "doug",
+      "text": "Eight bags of ice.",
+      "say": "8 bags of ice",
+      "gap": 0.95
+    },
+    {
+      "who": "doug",
+      "text": "Five potted cactuses.",
+      "say": "5 potted cacti",
+      "gap": 0.95
+    },
+    {
+      "who": "doug",
+      "text": "Um, one more thing.",
+      "say": "Um...",
+      "gap": 1.0
+    }
+  ]
+}

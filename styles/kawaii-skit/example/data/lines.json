@@ -1,0 +1,31 @@
+{
+ "duration": 6.955,
+ "voice": "af_bella",
+ "speed": 0.9,
+ "lines": [
+  {
+   "i": 0,
+   "text": "La la la la la la.",
+   "start": 0.35,
+   "end": 1.314
+  },
+  {
+   "i": 1,
+   "text": "Ahhh!",
+   "start": 2.214,
+   "end": 2.634
+  },
+  {
+   "i": 2,
+   "text": "Flour!",
+   "start": 2.984,
+   "end": 3.568
+  },
+  {
+   "i": 3,
+   "text": "Snow.",
+   "start": 4.868,
+   "end": 5.455
+  }
+ ]
+}
