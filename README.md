@@ -79,7 +79,13 @@ procedural sound effects + music → headless Chrome captures every frame → ff
 Optional: when you ask, it uploads the finished short to your YouTube channel through Zapier (it confirms title, visibility and category first).
 
 ## Install the skill
-**Needs:** Node.js 22+, ffmpeg, Google Chrome, Python 3.10+, ~1 GB for the voice and Whisper models (the setup script installs what it can).
+**Quick install** (via [skills.sh](https://www.skills.sh/bilalnaseer/faceless-youtube-shorts)):
+```bash
+npx skills add bilalnaseer/faceless-youtube-shorts
+```
+Then run the setup steps below (3 and 4) inside the installed skill folder.
+
+**Manual install.** **Needs:** Node.js 22+, ffmpeg, Google Chrome, Python 3.10+, ~1 GB for the voice and Whisper models (the setup script installs what it can).
 On Windows run the scripts in Git Bash.
 
 1. Download the repo: `git clone https://github.com/bilalnaseer/faceless-youtube-shorts.git`
