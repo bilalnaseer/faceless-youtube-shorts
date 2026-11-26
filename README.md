@@ -4,6 +4,12 @@ Narrated faceless cartoon shorts (YouTube Shorts, TikTok, Reels) made 100% in co
 character, word-synced timing, animation, sound effects and music, rendered to MP4. No AI video, no API keys, no credits.
 Works as a skill for Claude Code and OpenCode-style agents: give it a story idea and a style, and it writes, animates, checks and renders the short.
 
+## Video tutorial
+
+[![How to Make Faceless YouTube Shorts 100% Free (No Claude Needed)](https://img.youtube.com/vi/R--wZVMpdns/maxresdefault.jpg)](https://youtu.be/R--wZVMpdns)
+
+▶ **[How to Make Faceless YouTube Shorts 100% Free (No Claude Needed)](https://youtu.be/R--wZVMpdns)** by [WebSensePro](https://www.youtube.com/@WebSensePro)
+
 ## Styles and where they come from
 
 The three looks in this repo are **studied from, and inspired by, the YouTube channels below**. The characters, stories, dialogue and all artwork in this repo are
